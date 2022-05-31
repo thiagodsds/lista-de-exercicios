@@ -1,7 +1,7 @@
 # lista-de-exercicios
 
 Thiago de Oliveira Paravati RA: 125111352704
-Vinicius Moraes Teixeira RA: 12511121327314
+Vinicius Moraes Teixeira RA: 125111362152
  
 Resposta dos Exercicios
 
